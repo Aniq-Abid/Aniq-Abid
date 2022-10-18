@@ -216,6 +216,7 @@ h1::after{
     border: none;
 }
 .btn-group{
+    row-gap: 20px;
     margin: 20px 0;
     display: flex;
     display: -ms-flexbox;
