@@ -149,9 +149,13 @@
     .btn{
         font-size: 11px;
         padding: 5px;
+        margin-left: 0;
     }
     .btn:hover{
         padding-top: 7px;
+    }
+    .btn-group{
+        width: 240px;
     }
     .portfolio-box{
         width: 46%;
