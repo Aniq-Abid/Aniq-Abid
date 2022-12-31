@@ -182,7 +182,7 @@ h1::after{
     background: var(--theme3-primary);
 }
 .btn,.btn2{
-    width: 100px;
+    min-width: 100px;
     border-radius: 15px;
     padding: 9px 5px;
     display: flex;
